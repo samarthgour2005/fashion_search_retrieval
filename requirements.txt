@@ -1,0 +1,11 @@
+torch
+git+https://github.com/openai/CLIP.git
+faiss-cpu
+datasets
+ftfy
+regex
+tqdm
+pillow
+numpy
+transformers
+accelerate
