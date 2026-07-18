@@ -64,14 +64,4 @@ fusion weight (`FUSE_ALPHA`), re-rank candidate pool size, attribute weight,
 model names, and all file paths — lives in `config.py`. Nothing is
 hard-coded elsewhere; change an experiment setting in one place.
 
-## Persisting across ephemeral environments (e.g. Colab)
 
-Set `FASHION_SEARCH_HOME` to a persistent directory (e.g. a mounted Google
-Drive path) before importing `config`, and optionally `HF_HOME` to redirect
-the Hugging Face model/dataset cache there too:
-
-```python
-import os
-os.environ["FASHION_SEARCH_HOME"] = "/content/drive/MyDrive/fashion-retrieval"
-os.environ["HF_HOME"] = "/content/drive/MyDrive/fashion-retrieval/hf_cache"
-```
