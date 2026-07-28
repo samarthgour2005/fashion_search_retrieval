@@ -4,7 +4,7 @@ Two-stage fashion image retrieval: CLIP for broad semantic recall, plus a
 color-attribute re-ranking layer that fixes CLIP's known weakness on
 compositional queries (e.g. "red shirt, blue pants" vs "blue shirt, red
 pants"). 
-```
+
 🎥 Demo Video: [Watch Demo](https://drive.google.com/file/d/1k-gM5mtAkTIYtebmND_CpaYnwsW4Z6Yl/view?usp=drive_link)
 ### Example
 ![Example](fashion_search/0.7%20%26%200.3%20fusion%20+%20reranker/assignment_query/assignment_query_4.png)
