@@ -6,6 +6,7 @@ compositional queries (e.g. "red shirt, blue pants" vs "blue shirt, red
 pants"). 
 
 🎥 **Demo Video:**
+
 <a href="https://youtu.be/CYzNS1RHBOw?si=a1bQ2bw4nd7i6JA8">
   <img src="https://markdown-videos-api.jorgenkh.no/youtube/CYzNS1RHBOw" alt="Watch Demo" width="600">
 </a>
