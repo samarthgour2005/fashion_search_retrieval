@@ -5,7 +5,9 @@ color-attribute re-ranking layer that fixes CLIP's known weakness on
 compositional queries (e.g. "red shirt, blue pants" vs "blue shirt, red
 pants"). 
 
-🎥 Demo Video: [Watch Demo](https://youtu.be/CYzNS1RHBOw?si=a1bQ2bw4nd7i6JA8)
+🎥 **Demo Video:**
+[![Watch Demo](https://img.youtube.com/vi/CYzNS1RHBOw/maxresdefault.jpg)](https://youtu.be/CYzNS1RHBOw?si=a1bQ2bw4nd7i6JA8)
+
 ### Example
 ![Example](fashion_search/0.7%20%26%200.3%20fusion%20+%20reranker/assignment_query/assignment_query_4.png)
 ## Structure
