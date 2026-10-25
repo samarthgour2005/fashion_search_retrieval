@@ -1,0 +1,17 @@
+torch
+git+https://github.com/openai/CLIP.git
+faiss-cpu
+datasets
+ftfy
+regex
+tqdm
+pillow
+numpy
+transformers
+accelerate
+streamlit
+opencv-python-headless
+scipy
+scikit-learn
+plotly
+umap-learn

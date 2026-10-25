@@ -1,0 +1,33 @@
+[project]
+name = "fashion-retrieval"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "accelerate>=1.15.0",
+    "clip",
+    "datasets>=5.0.1",
+    "faiss-cpu>=1.15.0",
+    "ftfy>=6.3.1",
+    "numpy>=2.5.3",
+    "opencv-python-headless>=5.0.0.93",
+    "pillow>=12.3.0",
+    "plotly>=7.0.0",
+    "regex>=2026.9.10",
+    "scikit-learn>=1.0",
+    "scipy>=1.18.1",
+    "streamlit>=1.63.0",
+    "torch>=2.14.0",
+    "tqdm>=4.70.1",
+    "transformers>=5.17.0",
+]
+
+[tool.uv.sources]
+clip = { git = "https://github.com/openai/CLIP.git" }
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+    "reportlab>=5.0.1",
+]
