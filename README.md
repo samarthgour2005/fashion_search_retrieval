@@ -13,7 +13,7 @@ An end-to-end fashion image retrieval engine that solves CLIP's compositional we
 
 
 ### Example
-![Example](fashion_search/0.7%20%26%200.3%20fusion%20+%20reranker/assignment_query/assignment_query_4.png)
+![Example](https://raw.githubusercontent.com/samarthgour2005/fashion_search_retrieval/main/showcasing.png)
 ## ✨ Key Features
 
 | Feature | Description |
