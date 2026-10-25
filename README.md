@@ -1,11 +1,19 @@
-# 👗 Fashion Search Studio
+﻿# 👗 Fashion Search Studio
 
 > **Version 3** | Multimodal fashion image retrieval powered by CLIP, SegFormer, FAISS, and LLM query parsing
 
 An end-to-end fashion image retrieval engine that solves CLIP's compositional weakness (e.g., distinguishing *"red shirt, blue pants"* from *"blue shirt, red pants"*) through a **two-stage attribute-aware re-ranking architecture**, per-garment segmentation indexing, and flexible embedding fusion.
 
 ---
+🎥 **Demo Video:**
 
+<a href="https://youtu.be/CYzNS1RHBOw?si=a1bQ2bw4nd7i6JA8">
+  <img src="https://markdown-videos-api.jorgenkh.no/youtube/CYzNS1RHBOw" alt="Watch Demo" width="600">
+</a>
+
+
+### Example
+![Example](fashion_search/0.7%20%26%200.3%20fusion%20+%20reranker/assignment_query/assignment_query_4.png)
 ## ✨ Key Features
 
 | Feature | Description |
