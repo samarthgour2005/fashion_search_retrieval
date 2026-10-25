@@ -68,6 +68,14 @@ hub/
 # =============================================================================
 results/*
 !results/.gitkeep
+!results/eval_report.json
+!results/Fashion_Retrieval_Progress_Report.pdf
+!results/test2/
+!results/test2/**
+!results/test3/
+!results/test3/**
+!results/test4/
+!results/test4/**
 outputs/
 runs/
 wandb/
